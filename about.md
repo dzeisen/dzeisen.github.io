@@ -1,15 +1,9 @@
 ---
-layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+# About this project
 
-Reasons:
-- its great.
-- its a test.
+In a word: **Awesome!**
 
-## Other thoughts
-
-This is great.
+See the [Home page](/go-go-ghpages/README.md)
